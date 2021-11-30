@@ -58,3 +58,6 @@ print("=========================================================================
 
 # Hasil Codingan :
 ![output praktikum4](https://user-images.githubusercontent.com/46867774/143882239-b7ec0d56-efd6-4e49-b54a-451bbfd9ae8c.PNG)
+
+# Flowchart Praktikum 4
+<img width="715" alt="praktikum4" src="https://user-images.githubusercontent.com/93661771/144062900-314b24f1-c0c1-4d63-8c76-7226fef6f175.PNG">
