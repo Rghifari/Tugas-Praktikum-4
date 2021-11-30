@@ -1,3 +1,9 @@
+```
+Nama  : Muhammad Rafi Alghifari
+NIM   : 312110526
+Kelas : TI.21.BA.1
+```
+
 # Tugas Praktikum 4
 
 Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
